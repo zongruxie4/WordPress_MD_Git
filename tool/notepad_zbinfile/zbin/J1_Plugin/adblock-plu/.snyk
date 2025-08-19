@@ -14,5 +14,16 @@ patch:
         path: jsdoc > requizzle > lodash
     - mocha > yargs-unparser > lodash:
         patched: '2025-07-26T18:36:33.788Z'
+        master
+        patched: '2025-08-05T20:52:38.857Z'
+        id: SNYK-JS-LODASH-567746
+        path: jsdoc > catharsis > lodash
+    - jsdoc > requizzle > lodash:
+        patched: '2025-08-05T20:52:38.857Z'
+        id: SNYK-JS-LODASH-567746
+        path: jsdoc > requizzle > lodash
+    - mocha > yargs-unparser > lodash:
+        patched: '2025-08-05T20:52:38.857Z'
+        snyk-fix-00c5416d83a1c1b58585ecafdd8f2a41
         id: SNYK-JS-LODASH-567746
         path: mocha > yargs-unparser > lodash
